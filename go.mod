@@ -1,4 +1,4 @@
-module github.com/muratymt/go-utils/goutils
+module github.com/muratymt/go-utils
 
 go 1.15
 
